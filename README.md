@@ -1,6 +1,7 @@
 # TMU-auto-sheet
+>需要先在瀏覽器安裝油猴插件（Tampermonkey）
 
-直接把 main.js 貼到油猴新增腳本裡面，點擊教學評量就會自動填好（都非常同意）
+直接把 main.js 貼到油猴新增腳本裡面，存檔之後，只要到教務行政系統點擊教學評量就會自動填好（都非常同意）
 
 ```javascript
 // ==UserScript==
